@@ -1,4 +1,5 @@
-# README
+# Superstarter
+* Starting block for web development based on popular practices and frameworks.
 
 ### v0.5 05/14/2013
 
