@@ -1,27 +1,26 @@
-### HEAD
+# README
 
 ### v0.5 05/14/2013
 
 
 
 ### TODO
-
 * Font Icons (done)
 * CSS Animation Wrapper (done)
 * Lightbox Plugin (done)
 * Slider Plugin (done)
 
-# Icon Reference
+## Icon Reference
 Font awesome library was used.
 * http://fortawesome.github.io/Font-Awesome/icons/
 
-# CSS Animation Wrapper
+## CSS Animation Wrapper
 * See Origin.scss for mixins
 
-# Lightbox Plugin
+## Lightbox Plugin
 Colorbox.
 * http://www.jacklmoore.com/colorbox/
 
-# Slider Plugin
+## Slider Plugin
 Nivo Slider
 * link(TBA)
